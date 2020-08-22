@@ -1,0 +1,65 @@
+h1 {
+    line-height:40px;
+    font-weight: 200;
+    font-style: italic;
+    width:350px;
+    margin:  10px auto;
+    border-radius: 8px;
+    padding: 6px 12px;   
+}
+
+h3 {
+    border-radius: 8px;
+    padding: 6px 12px;
+    text-align: center;
+}
+
+#message {
+    font-size: 16px;
+    margin: 20px 0;
+    font-style: italic;
+    text-align: center;
+}
+
+.scoreBox{
+    text-align: center;
+}
+
+.score { 
+    margin: 0 10px 10px;
+    border: 1.5px solid #c8caef;
+    border-radius: 8px;
+    padding: 6px 12px;
+    text-align: center;
+    width:fit-content;
+}
+
+@media screen and (min-width: 521px) {
+    #message {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    h1 {
+        line-height:40px;
+        font-weight: 100;
+        font-size: 20px;
+        width: 250px;
+    }
+
+    h3 {
+        font-size: 1em;
+        margin-left: 10px;
+    }
+
+    #message {
+        font-size: 8px;
+        margin-left: 10px;
+    }
+
+    .card {
+        height: 250px;
+        width: 250px;
+    }
+}

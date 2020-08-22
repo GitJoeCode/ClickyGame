@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "Twisted Fate, The Card Master",
+    "image": "images/twistedFateTheCardMaster.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Varus, The Arrow of Retribution",
+    "image": "images/varusTheArrowofRetribution.jpg",
+    "count": 0
+  },
+    {
+    "id": 3,
+    "name": "Zilean, The Chronokeeper",
+    "image": "images/zileanTheChronokeeper.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Vladimir, The Crimson Reaper",
+    "image": "images/vladimirTheCrimsonReaper.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Yorick, The Gravedigger",
+    "image": "images/yorickTheGravedigger.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Urgot, The Headsman's Pride",
+    "image": "images/urgotTheHeadsmansPride.jpg",
+    "count": 0
+  },
+    {
+    "id": 7,
+    "name": "Ekko, The Boy Who Shattered Time",
+    "image": "images/ekkoTheBoyWhoShatteredTime.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Viktor, The Machine Herald",
+    "image": "images/viktorTheMachineHerald.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Udyr The Spirit Walker",
+    "image": "images/udyrTheSpiritWalker.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Tryndamere, The Barbarian King",
+    "image": "images/tryndamereTheBarbarianKing.jpg",
+    "count": 0
+  },
+    {
+    "id": 11,
+    "name": "Bard, The Wandering Caretaker",
+    "image": "images/bardTheWanderingCaretaker.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Xin Zhao, The Seneschal Of Demacia",
+    "image": "images/xinZhaoTheSeneschalOfDemacia.jpg",
+    "count": 0
+  },
+  {
+    "id": 13,
+    "name": "Volibear, The Thunder's Roar",
+    "image": "images/volibearTheThundersRoar.jpg",
+    "count": 0
+  },
+  {
+    "id": 14,
+    "name": "Xerath, The Magus Ascendant",
+    "image": "images/xerathTheMagusAscendant.jpg",
+    "count": 0
+  },
+  {
+    "id": 15,
+    "name": "Vi, The Piltover Enforcer",
+    "image": "images/viThePiltoverEnforcer.jpg",
+    "count": 0
+  },
+  {
+    "id": 16,
+    "name": "Zyra, Rise Of The Thorns",
+    "image": "images/zyraRiseOfTheThorns.jpg",
+    "count": 0
+  },
+  {
+    "id": 17,
+    "name": "Trundle, The Troll King",
+    "image": "images/trundleTheTrollKing.jpg",
+    "count": 0
+  },
+  {
+    "id": 18,
+    "name": "Tristana,The Yordle Gunner",
+    "image": "images/tristanaTheYordleGunner.jpg",
+    "count": 0
+  },
+  {
+    "id": 19,
+    "name": "Thresh, The Chain Warden",
+    "image": "images/threshTheChainWarden.jpg",
+    "count": 0
+  },
+  {
+    "id": 20,
+    "name": "Teemo, The Swift Scout",
+    "image": "images/teemoTheSwiftScout.jpg",
+    "count": 0
+  },
+  {
+    "id": 21,
+    "name": "Taric, The Gem Knight",
+    "image": "images/taricTheGemKnight.jpg",
+    "count": 0
+  },
+  {
+    "id": 22,
+    "name": "Talon, The Blades Shadow",
+    "image": "images/talonTheBladesShadow.jpg",
+    "count": 0
+  },
+  {
+    "id": 23,
+    "name": "Tahm Kench, The River King",
+    "image": "images/tahmKenchTheRiverKing.jpg",
+    "count": 0
+  },
+  {
+    "id": 24,
+    "name": "Syndra,The Dark Sovereign",
+    "image": "images/syndraTheDarkSovereign.jpg",
+    "count": 0
+  },
+  {
+    "id": 25,
+    "name": "Swain, The Master Tactician",
+    "image": "images/swainTheMasterTactician.jpg",
+    "count": 0
+  },
+  {
+    "id": 26,
+    "name": "Soraka, The Starchild",
+    "image": "images/sorakaTheStarchild.jpg",
+    "count": 0
+  },
+  {
+  "id": 27,
+  "name": "Sona, Maven Of The Strings",
+  "image": "images/sonaMavenOfTheStrings.jpg",
+  "count": 0
+  },
+  {
+  "id": 28,
+  "name": "Skarner, The Crystal Vanguard",
+  "image": "images/skarnerTheCrystalVanguard.jpg",
+  "count": 0
+  },
+  {
+  "id": 29,
+  "name": "Sivir, The Battle Mistress",
+  "image": "images/sivirTheBattleMistress.jpg",
+  "count": 0
+  },
+  {
+  "id": 30,
+  "name": "Sion, The Undead Juggernaut",
+  "image": "images/sionTheUndeadJuggernaut.jpg",
+  "count": 0
+  }
+]
+  

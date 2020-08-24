@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("http://localhost:3000/images/background.jpg");
+  background-image: url("./images/background.jpg");
   background-size: cover;
 }
 
